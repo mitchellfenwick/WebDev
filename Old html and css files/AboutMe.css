@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+  /* border-color: purple;
+  border-width: 5px;
+  border-style: solid; */
+
+  border: 5px solid purple;
+}
+
+li {
+  color: blue;
+}
+
+ul {
+  background: rgb(255, 100, 80);
+}
+
+body {
+  background: rgba(0, 30, 80, 0.5);
+  /* background: url(https://d2jd5cd93sjelr.cloudfront.net/spree/images/34231/large/f2008146-1_5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; */
+}

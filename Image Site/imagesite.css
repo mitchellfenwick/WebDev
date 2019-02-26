@@ -1,0 +1,60 @@
+body {
+  padding-top: 70px;
+}
+
+.jumbotron {
+  color: #2c3e50;
+  background: #ecf0f1;
+}
+
+.navbar-inverse {
+  background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
+
+.thumbnail {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.image1 {
+  background-image: url(aleksandar-jason-137349-unsplash.jpg);
+}
+.image2 {
+  background-image: url(aman-dhakal-205796-unsplash.jpg);
+}
+.image3 {
+  background-image: url(andreas-kind-268557-unsplash.jpg);
+}
+.image4 {
+  background-image: url(asoggetti-1367088-unsplash.jpg);
+}
+.image5 {
+  background-image: url(benjamin-voros-575800-unsplash.jpg);
+}
+.image6 {
+  background-image: url(daniel-leone-197357-unsplash.jpg);
+}
+.image7 {
+  background-image: url(jeremy-bishop-298892-unsplash.jpg);
+}
+.image8 {
+  background-image: url(julian-zett-643140-unsplash.jpg);
+}
+.image9 {
+  background-image: url(sven-scheuermeier-37377-unsplash.jpg);
+}

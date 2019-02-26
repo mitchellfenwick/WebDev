@@ -1,0 +1,45 @@
+/* Element */
+li {
+
+}
+/* Class */
+.hello {
+
+}
+/* id */
+#name {
+
+}
+/* Star */
+/* --Selects Everything */
+* {
+	border: 1px solid lightgrey;
+}
+/* Descendant Selector */
+/* Selects tags that are descendants to other tags */
+/* In this example every a tag inside of a li tag */
+li a {
+	color: red;
+}
+/* Adjacent Selector */
+/* Selects tags that are adjacent another tag e.g. sibling */
+/* In this example ul that are adjacent to h4 */
+h4 + ul {
+	border: 4px solid red;
+}
+/* Attribute Selector */
+/* Can select all attributes oif a certain type */
+/* In this example all anchor tags with the href www.google.com */
+a[href="http://www.google.com"] {
+	background: blue;
+}
+/* nth of type */
+/* Takes a number and selects every nth of a specific element */
+/* In this example takes the 3rd li element */
+li:nth-of-type(3) {
+	background: purple;
+}
+/* Can also do even or odd */
+li:nth-of-type(even) {
+	background: grey;
+}

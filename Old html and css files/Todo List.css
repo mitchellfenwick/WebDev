@@ -1,0 +1,20 @@
+body {
+  background: orange;
+}
+
+li {
+  border: 2px solid red;
+}
+
+#record {
+  color: blue;
+  background: rgb(200, 30, 30);
+}
+
+#buy {
+  color: pink;
+}
+
+.special {
+  color: blue;
+}
